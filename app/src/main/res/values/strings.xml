@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_1">Player "X": 0</string>
+    <string name="player_2">Player "O": 0</string>
+    <string name="reset">reset</string>
+    <string name="tic">TIC</string>
+    <string name="toe">TIC TAC TOE</string>
+    <string name="tac">TAC</string>
+</resources>
